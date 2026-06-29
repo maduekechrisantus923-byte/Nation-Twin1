@@ -1,0 +1,11 @@
+streamlit
+groq
+chromadb
+sentence-transformers
+pypdf
+duckduckgo-search
+pandas
+matplotlib
+SpeechRecognition
+reportlab
+torch
